@@ -4,7 +4,7 @@
 To implement 4 bit up and down counters and validate  functionality.
 
 ## HARDWARE REQUIRED:
-– PC, Cyclone II , USB flasher
+PC, Cyclone II , USB flasher
 
 ## SOFTWARE REQUIRED:
 Quartus prime
